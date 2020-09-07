@@ -14,7 +14,7 @@
 		},
 		"DB_ADDRESS": {
 			"description": "MongoDB Host Address",
-			"value":"icopy.psmf9.mongodb.net"
+			"value":"icopy.psmf9.mongodb.net/icopy?retryWrites=true&w=majority"
 		},
 		"DB_USERNAME": {
 			"description": "MongoDB Username",
