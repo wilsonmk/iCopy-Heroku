@@ -26,7 +26,7 @@
 		},
 		"SA_ZIP_URL": {
 			"description": "Service Accounts ZIP URL.It Should be Zipped Such that it should have a folder named accounts with SA in it ",
-			"value":"https://www.dropbox.com/s/5kh2p1c6e8gzrrw/sa.zip?dl=0"
+			"value":"https://www.dropbox.com/s/5kh2p1c6e8gzrrw/accounts.zip?dl=0"
 		},
 		"SA_INIT_FILE": {
 			"description": "Give a service account File Name. ex 1.json ",
