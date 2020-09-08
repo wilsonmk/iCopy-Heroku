@@ -5,32 +5,25 @@
 	"keywords": ["Fclone","Icopy"],
 	"env": {
 		"BOT_TOKEN": {
-			"description": "Get from Telegram Botfather",
-			"value":"1334100616:AAHoGQODWapayCGnWugR_kR3L8DUGLia9k8"
+			"description": "Get from Telegram Botfather"
 		},
 		"USER_ID": {
-			"description": "get from telegram get_id_bot",
-			"value":"1334100616"
+			"description": "get from telegram get_id_bot"
 		},
 		"DB_ADDRESS": {
-			"description": "MongoDB Host Address",
-			"value":"icopy.psmf9.mongodb.net/icopy?retryWrites=true&w=majority"
+			"description": "MongoDB Host Address"
 		},
 		"DB_USERNAME": {
-			"description": "MongoDB Username",
-			"value":"wilson"
+			"description": "MongoDB Username"
 		},
 		"DB_PASS": {
-			"description": "MongoDB Password",
-			"value":"wilsonmk"
+			"description": "MongoDB Password"
 		},
 		"SA_ZIP_URL": {
-			"description": "Service Accounts ZIP URL.It Should be Zipped Such that it should have a folder named accounts with SA in it ",
-			"value":"https://www.dropbox.com/s/5kh2p1c6e8gzrrw/accounts.zip?dl=0"
+			"description": "Service Accounts ZIP URL.It Should be Zipped Such that it should have a folder named accounts with SA in it "
 		},
 		"SA_INIT_FILE": {
-			"description": "Give a service account File Name. ex 1.json ",
-			"value":"f1cdd86b542181eb06c754f68a91b366d622e46e.json"
+			"description": "Give a service account File Name. ex 1.json "
 		},
 		"LANGUAGE": {
 			"description": "cn by Default Support eng and jp",
